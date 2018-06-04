@@ -4,7 +4,8 @@
   "description": "Junee Chatbot Webhook",
   "main": "index.js",
   "scripts": {
-    "test": "hello"
+    "test": "hello",
+	"start": "node index.js"
   },
   "author": "",
   "license": "ISC",
